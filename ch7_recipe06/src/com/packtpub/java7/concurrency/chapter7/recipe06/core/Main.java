@@ -71,7 +71,7 @@ public class Main {
 		/*
 		 * Write a message indicating the end of the program
 		 */
-		System.out.printf("Main: End of the program\n");
+		System.out.printf("Main: End of the program 2\n");
 	}
 
 }
